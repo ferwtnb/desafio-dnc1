@@ -1,0 +1,148 @@
+*{
+
+    margin: 0px;
+    font-family: "inter";
+}
+
+#Parte-superior{
+
+background-color: #303030;
+padding: 55px;
+color: white;
+
+
+}
+.titulo-cima{
+
+    margin-top: 20px;
+   
+}
+
+#parte2{
+
+    
+    background-color: rgb(237, 237, 237);
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 60px;
+}
+
+.frase-parte-2{
+
+    margin-left: 70px;
+
+}
+
+.negrito{
+
+    font-weight: bold;
+}
+
+.numero-grande{
+
+    font-size: 25px;
+    font-weight: bolder;
+}
+.parte3{
+
+   
+
+  display: flex;
+  align-items: center;
+  
+  width: 100%;
+  height: 100%;
+
+
+}
+
+#h1{
+
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#p1{
+
+margin-top: 25px;
+margin-left: 25px;
+
+}
+.texto{
+
+    
+    text-align: left;
+   margin-left: 25px;
+
+    
+}
+
+#imagem{
+
+    width: 420px;
+    height: 390px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+
+#part4{
+
+    background-color: #303030;
+    text-align: center;
+  
+}
+
+
+
+
+
+
+#titulo-inferior{
+    
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 35px;
+    
+}
+input{
+  
+   width: 413px;
+   height: 53px;
+   background-color: white;
+   margin: 18px;
+   border-radius: 8px;
+}
+
+button{
+
+    background-color: #c07212;
+    width: 150px;
+    height: 35px;
+    border-radius: 8px;
+    margin: center;
+    cursor: pointer;
+    font-weight: bolder;
+    color: white;
+    border: 0px;
+    margin-bottom: 50px;
+    align-items: center;
+
+}
+
+button:hover{
+
+    background-color: #318fb8;
+    color: white;
+    transform: rotateY('-2px');
+    box-shadow: 0px 15px 20px #05103081;
+    transition-duration: 0.5s;
+}
+
+
+  
